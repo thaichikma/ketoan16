@@ -14,6 +14,13 @@ Repository hiện chứa **tài liệu phân tích & vận hành dự án** (ch�
 | [code-standards.md](docs/code-standards.md) | Chuẩn code Odoo/Python khi có module |
 | [design-guidelines.md](docs/design-guidelines.md) | Nguyên tắc thiết kế logic báo cáo |
 | [deployment-guide.md](docs/deployment-guide.md) | Khung triển khai staging/production |
+| [bao-gia-de-xuat.md](docs/bao-gia-de-xuat.md) | Bang bao gia theo milestone + dieu kien thanh toan |
+
+## Kế hoạch & task theo milestone
+
+- [plans/odoo16-vn-accounting-reports/plan.md](plans/odoo16-vn-accounting-reports/plan.md) — plan chính (YAML frontmatter)
+- Phase 0–5: `plans/odoo16-vn-accounting-reports/phase-*.md` — checklist chi tiết từng milestone
+- Báo cáo PM: [reports/](reports/)
 
 ## Nguồn nội dung
 
