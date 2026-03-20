@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python / Odoo (dự phòng khi có mã)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Odoo filestore / dumps (không commit)
+*.dump
+*.sql
+filestore/
+
+# Secrets
+.env
+*.pem
